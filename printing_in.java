@@ -5,6 +5,7 @@ public class printing_in {
         System.out.print("Hello, World!\n"); // Prints with a newline at the end
         System.out.println("Hello, World!"); // Prints with a newline at the end
         System.out.print("Hello, World!");
+        
     }
     
 }
